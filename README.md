@@ -12,4 +12,5 @@ npm install -g ts-node
 npm install -g typescript
 npm install -g nodemon
 npm install
+npm run demo
 ```
